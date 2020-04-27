@@ -108,13 +108,17 @@
   doi={10.1007/BF00994052}
 }
 
-@article{bushman2018boom,
-  title={“Boom, Headshot!”: Violent first-person shooter (FPS) video games that reward headshots train individuals to aim for the head when shooting a realistic firearm},
-  author={Bushman, Brad J},
-  journal={Aggressive behavior},
-  year={2018},
-  publisher={Wiley Online Library},
-  doi={10.1002/ab.21794}
+@Article{bushman2018boom,
+  author    = {Bushman, Brad J},
+  journal   = {Aggressive Behavior},
+  title     = {{\textquotedblleft}Boom, Headshot!{\textquotedblright}: Violent first-person shooter ({FPS}) video games that reward headshots train individuals to aim for the head when shooting a realistic firearm},
+  year      = {2018},
+  month     = {sep},
+  number    = {1},
+  pages     = {33--41},
+  volume    = {45},
+  doi       = {10.1002/ab.21794},
+  publisher = {Wiley Online Library},
 }
 
 @article{carre2013basic,
@@ -747,13 +751,14 @@
 }
 
 @Article{Satterthwaite2016,
-  author    = {Satterthwaite, Theodore D and Connolly, John J and Ruparel, Kosha and Calkins, Monica E and Jackson, Chad and Elliott, Mark A and Roalf, David R and Hopson, Ryan and Prabhakaran, Karthik and Behr, Meckenzie and , others},
+  author    = {Theodore D. Satterthwaite and John J. Connolly and Kosha Ruparel and Monica E. Calkins and Chad Jackson and Mark A. Elliott and David R. Roalf and Ryan Hopson and Karthik Prabhakaran and Meckenzie Behr and Haijun Qiu and Frank D. Mentch and Rosetta Chiavacci and Patrick M.A. Sleiman and Ruben C. Gur and Hakon Hakonarson and Raquel E. Gur},
   journal   = {Neuroimage},
   title     = {The Philadelphia Neurodevelopmental Cohort: a publicly available resource for the study of normal and abnormal brain development in youth},
   year      = {2016},
+  month     = {jan},
   pages     = {1115--1119},
   volume    = {124},
-  doi       = {0.1016/j.neuroimage.2015.03.056},
+  doi       = {10.1016/j.neuroimage.2015.03.056},
   publisher = {Elsevier},
 }
 
